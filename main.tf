@@ -22,7 +22,7 @@ terraform {
 }
 
 variable "username" {
-  default = "uturunku
+  default = "uturunku123"
 }
 
 resource "null_resource" "random" {
