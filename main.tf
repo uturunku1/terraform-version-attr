@@ -2,7 +2,7 @@ terraform {
    cloud {
     # organization = "example-org-615f54"
     organization = "hashicorp"
-    hostname = "tfcdev-326ff8f0.ngrok.io"
+    hostname = "tfcdev-9da56df7.ngrok.app"
     workspaces {
       name = "terraform-version-attr"
       # tags = ["tag1", "tag3"]
